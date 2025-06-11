@@ -1,0 +1,12 @@
+.App {
+  font-family: sans-serif;
+  height: 200px;
+  overflow-y: auto;
+}
+
+.item {
+  background-color: antiquewhite;
+  padding: 2px;
+  margin: 5px;
+  border: 1px solid black;
+}
